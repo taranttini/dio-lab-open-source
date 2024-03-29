@@ -31,6 +31,8 @@ Para realizar esse desafio preciso adicionar esse item ao repositório.
 
 `git commit -m "feat: add taranttini profile"`
 
+`https://github.com/taranttini/dio-lab-open-source`
+
 ### ### contribuição
 
 Esse repositório de ajuda e da comunidade, está demasiado grande e com tantos arquivos causa bug até para ser carregado no github, acredito que seja interessante separamos os participantes por pastas com a inicial do nome, ou por ano/turma dos desafios realizados
